@@ -16,14 +16,16 @@
 
 ## About The Project
 
-The goal of this project is to develop knowledge and learn a simple event-booking web application using the MERN + GraphQL stack. The app can conduct operations like createUser, createEvent, deleteEvent etc... 
+The goal of this project is to develop knowledge and learn a simple event-booking web application using the MERN + GraphQL stack, by following Academind online guide. The app can conduct operations like createUser, createEvent, deleteEvent etc... 
 
 ## App Demo
-- Utilise the GraphQL UI interface at http://localhost:PORT
+- Visit the GraphQL UI interface at http://localhost:5000/api/graphql to conduct queries and mutations.
+![Capture 1](https://i.ibb.co/NSmTXcz/1.png)
 ## Usage
 
 - Install packages with `npm install`.
 - Run `npm start` on the server folder respectively.
 
 ## Contributors
-- Jonathan Choi
+- Jonathan Choi 
+- Academind 
